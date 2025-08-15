@@ -1,0 +1,8 @@
+
+ms2_products:
+  - name: "Glu_2-5 -> product (keep C2-4)"
+    precursor_emu: { met: "Glu", atoms: [2,3,4,5] }
+    product_emu:   { met: "Glu", atoms: [2,3,4] }
+    isolation:
+      purity: 0.98
+    report: "MID"
